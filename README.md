@@ -1,4 +1,5 @@
 # Smallsh
+## CS-344 (Operating Systems I) Program
 This program runs a custom shell script, similar to bash. Smallsh includes a command line prompt, input and output redirection, foreground and background processes, and three built-in commands: `cd`, `status`, and `exit`. All other commands are handled by an `exec()` function. Smallsh also handles comments.
 
 ## How to compile and run:
