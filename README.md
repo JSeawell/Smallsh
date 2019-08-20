@@ -12,7 +12,7 @@
 > 3. Now that smallsh is an executable file, run it using the command:  
 > `./smallsh`
 
-## What I learned:
+## Concepts learned/used:
 > 1. Processes (parents, children, zombies)  
 > 2. `Fork()` and `exec()`
 > 3. Signals  
