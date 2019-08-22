@@ -13,8 +13,10 @@
 > `./smallsh`
 
 ## Tech and/or concepts learned/used:
-> 1. Processes (parents, children, zombies)  
-> 2. `Fork()` and `exec()`
-> 3. Signals  
-> 4. Environment variables  
-> 5. File inheritance, input/output redirection
+> - C language
+> - Bash
+> - Processes (parents, children, zombies)  
+> - `Fork()` and `exec()`
+> - Signals  
+> - Environment variables  
+> - File inheritance, input/output redirection
